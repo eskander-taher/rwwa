@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+body {
+  margin: 0;
+  background-color: #F9FAFB;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  cursor: pointer;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#475569;
+}
+
+.darg-drop{
+  max-width: none !important; 
+  max-height: none !important;
+  height: 100px !important;
+  border:#df5e60 2px solid !important;
+}
+
+.darg-drop path{
+  fill: #df5e60!important;
+}
+
+.editor{
+  background-color: white;
+  min-height: 200px;
+  /* box-shadow: 0 0px 3px 0 rgb(0 0 0 / 0.1), 0 0px 2px -1px rgb(0 0 0 / 0.1); */
+  margin: 30px 0;
+  padding:10px;
+ 
+}
+
+.wrapper{
+ width:100%;
+}
+
+.toolbatar{
+  display: none !important;
+}
