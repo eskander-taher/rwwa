@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87492ade.css",
+    "main.js": "/static/js/main.f3444cf5.js",
+    "static/js/787.00a35d7a.chunk.js": "/static/js/787.00a35d7a.chunk.js",
+    "static/media/rwaa-logo-nav.png": "/static/media/rwaa-logo-nav.afd0e298dd8a42afbfdf.png",
+    "static/media/BGphoto.jpg": "/static/media/BGphoto.e8b7175c94b3e62986b7.jpg",
+    "static/media/logo.jpg": "/static/media/logo.60db01ba21fb5ac1a7b7.jpg",
+    "index.html": "/index.html",
+    "main.87492ade.css.map": "/static/css/main.87492ade.css.map",
+    "main.f3444cf5.js.map": "/static/js/main.f3444cf5.js.map",
+    "787.00a35d7a.chunk.js.map": "/static/js/787.00a35d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87492ade.css",
+    "static/js/main.f3444cf5.js"
+  ]
+}
